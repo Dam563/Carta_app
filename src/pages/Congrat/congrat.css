@@ -1,0 +1,83 @@
+@media (min-width: 768px) {
+   .congrat{
+     width: 100%;
+   }
+   .first-text{
+    font-size: 24px;
+    font-weight: 600;
+   }
+   .second-text{
+    font-size: 24px;
+    font-weight: 600;
+   }
+  }
+
+body{
+    background: #F5F5F5;
+}
+
+.hurray{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 68px;
+}
+.first-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 13px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.second-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    margin-bottom: 23px;
+    color: #000000;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.congrat_btn{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+padding: 10px 20px;
+background: #000080;
+border-radius: 43px;
+border: #000080;
+margin-bottom: 22px;
+color: #FFFFFF;
+width: 254px;
+height: 34px;
+}
+.later{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+box-sizing: border-box;
+border: 1px solid #FFB300;
+border-radius: 43px;
+color: #FFB300;
+width: 254px;
+height: 34px;
+}
+#button{
+    display: block;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}

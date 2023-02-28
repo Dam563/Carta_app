@@ -1,0 +1,97 @@
+body{
+    background: #FCFAFA;
+    margin-left: 20px;
+}
+
+.store_text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 8px;
+}
+#description{
+    font-family: 'Montserrat';
+font-style: italic;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: rgba(56, 64, 72, 0.5);
+border: 1px solid #6B737A;
+border-radius: 4px;
+box-sizing: border-box;
+padding-left: 16px;
+width: 280px;
+height: 86px;
+margin-bottom: 16px;
+}
+.store_text_two{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    width: 280px;
+    height: 30px;
+    line-height: 15px;
+    color: #000000;
+    margin-bottom: 16px;
+    /* text-align: center; */
+}
+.upload{
+    box-sizing: border-box;
+    border: 1px dashed #000080;
+    border-radius: 10px;
+    width: 280px;
+    height: 140px;
+    margin-bottom: 23px;
+}
+.currency{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+}
+.options{
+    margin-bottom: 20px;
+    width: 280px;
+    height: 48px;
+}
+#contact{
+    height: 48px;
+    width: 280px;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: rgba(56, 64, 72, 0.5);
+    box-sizing: border-box;
+    border: 1px solid #6B737A;
+    border-radius: 4px;
+    margin-bottom: 23px;
+}
+.country{
+    margin-bottom: 41px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+}
+.setup_btn{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+color: #FFFFFF;
+background: #000080;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px rgba(0, 0, 0, 0.14), 0px 1px 5px rgba(0, 0, 0, 0.12);
+border-radius: 43px;
+padding: 10px 33px;
+margin-bottom: 80px;
+border: #000080;
+margin-left: 50px;
+}

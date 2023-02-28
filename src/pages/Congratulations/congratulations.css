@@ -1,0 +1,66 @@
+@media (min-width: 768px) {
+    .congratulations{
+      width: 100%;
+    }
+    .first-text{
+     font-size: 24px;
+     font-weight: 600;
+    }
+    .second-text{
+     font-size: 24px;
+     font-weight: 600;
+    }
+   }
+
+
+body{
+    background: #F5F5F5;
+}
+
+.hurray{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 68px;
+}
+.first-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 13px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.second-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    margin-bottom: 23px;
+    color: #000000;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.begin_btn{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+box-sizing: border-box;
+color: #FFB300;
+border: 1px solid #FFB300;
+border-radius: 43px;
+padding: 10px 33px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 150px;
+}
